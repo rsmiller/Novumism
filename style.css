@@ -53,6 +53,28 @@ main{max-width:62rem;margin:0 auto;padding:4rem 1.5rem}
 footer{text-align:center;padding:3rem 1.5rem 4rem;border-top:1px solid var(--line);color:var(--muted);font-size:1rem;background:var(--ivory)}
 footer p{margin:0}
 
+@font-face {
+  font-family: 'Novumism';
+  src: url('fonts/Novumism.woff2') format('woff2'),
+       url('fonts/Novumism.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+.ncs {
+  font-family: 'Novumism';
+  font-weight: normal;
+  font-style: normal;
+  line-height: 1;
+}
+.symbol-divider{font-size: 45px;}
+
+.ncs-orbit::before    { content: '\E000'; }
+.ncs-ankh::before     { content: '\E001'; }
+.ncs-triangle::before { content: '\E002'; }
+
+
 @media (max-width:720px){
   .book.reverse{grid-template-columns:1fr}
   .book{grid-template-columns:1fr;gap:2rem;text-align:center}
