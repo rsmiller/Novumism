@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Novumism — The Works of Ryan Miller</title>
+<meta name="description" content="The Novumism series by Ryan Miller: Novum Carta, The Civilizational Man, and The Great Orchestration.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400&family=EB+Garamond:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+<!--
+  ============================================================
+  LINK CONFIG — fill these in, then save. Nothing else to edit.
+  PDF: path in this repo (e.g. "pdfs/novum-carta.pdf") or a full URL.
+  Cover: put an image in /images and set e.g. "images/novum-carta.jpg".
+         Leave "" to show the ornamental fallback cover.
+  ============================================================
+-->
+<script>
+  window.BOOK_LINKS = {
+    "novum-carta":          { pdf: "pdfs/novum-carta.pdf", amazon: "#", cover: "" },
+    "civilizational-man":   { pdf: "pdfs/the-civilizational-man.pdf", amazon: "#", cover: "" },
+    "great-orchestration":  { pdf: "pdfs/the-great-orchestration.pdf", amazon: "#", cover: "" }
+  };
+</script>
+</head>
+<body>
+<a class="skip" href="#works">Skip to the works</a>
+
+<header class="hero">
+  <p class="eyebrow">A Series by Ryan Miller</p>
+  <h1>Novumism</h1>
+  <div class="ornament" aria-hidden="true">❦</div>
+  <p class="tagline">A comprehensive religion, philosophy, and metaphysics</p>
+  <nav aria-label="Books">
+    <a href="#novum-carta">Novum Carta</a><span aria-hidden="true">·</span>
+    <a href="#civilizational-man">The Civilizational Man</a><span aria-hidden="true">·</span>
+    <a href="#great-orchestration">The Great Orchestration</a>
+  </nav>
+</header>
+
+<main id="works">
+
+  <section class="book" id="novum-carta" aria-labelledby="t1">
+    <div class="cover" data-title="Novum Carta" data-numeral="I"></div>
+    <div class="text">
+      <p class="numeral">Book I</p>
+      <h2 id="t1">Novum Carta</h2>
+      <p class="subtitle"><em>The New Charter</em></p>
+      <!-- Excerpted from book/1. INTRODUCTION.md in rsmiller/NovumCarta -->
+      <p>Novumism is a religion and a philosophy that blends Hermeticism, Buddhism, and spiritual thought and casts it in a polytheistic worldview. Its religious texts are called the Novum Carta: <em>Novum</em>, meaning new; <em>Carta</em>, meaning charter.</p>
+      <p>This framework of beliefs attempts to throw off the modern notions of nihilism and consumer culture, and to cast life in a new light. Contained within these pages is a new charter of philosophical and ideological beliefs, borrowing from the old to create the new.</p>
+      <div class="actions">
+        <a class="btn primary" data-link="pdf" href="#">Download free PDF</a>
+        <a class="btn" data-link="amazon" href="#" rel="noopener">Buy on Amazon</a>
+      </div>
+    </div>
+  </section>
+
+  <div class="divider" aria-hidden="true"><span>✠</span></div>
+
+  <section class="book reverse" id="civilizational-man" aria-labelledby="t2">
+    <div class="cover" data-title="The Civilizational Man" data-numeral="II"></div>
+    <div class="text">
+      <p class="numeral">Book II</p>
+      <h2 id="t2">The Civilizational Man</h2>
+      <p class="subtitle"><em>On ethics, morality, and duty to civilization</em></p>
+      <!-- Excerpted from book/1. INTRODUCTION.md in rsmiller/TheCivilizationalMan -->
+      <p>The second book in the series can serve both as a detailed expansion of Novum Carta and as a separate entity. Where Novum Carta presents its ideas in a religious framework, this book is more agnostic, concerned with moral and ethical frameworks centering on duty to civilization.</p>
+      <p>Humanity has survived for hundreds of thousands of years, through cycles of destruction and birth, giving rise to civilizations that rise and fall, and through those times there is a perennial set of rules and laws that allowed humanity to survive.</p>
+      <div class="actions">
+        <a class="btn primary" data-link="pdf" href="#">Download free PDF</a>
+        <a class="btn" data-link="amazon" href="#" rel="noopener">Buy on Amazon</a>
+      </div>
+    </div>
+  </section>
+
+  <div class="divider" aria-hidden="true"><span>✠</span></div>
+
+  <section class="book" id="great-orchestration" aria-labelledby="t3">
+    <div class="cover" data-title="The Great Orchestration" data-numeral="III"></div>
+    <div class="text">
+      <p class="numeral">Book III</p>
+      <h2 id="t3">The Great Orchestration</h2>
+      <p class="subtitle"><em>The Architecture of the Simulation Hypothesis</em></p>
+      <!-- Condensed from Ryan Miller's source text for The Great Orchestration -->
+      <p>You, me, and everything in the universe exist as a series of Russian dolls, each fitting one inside another. Behind this orchestration stand the general laws, the constants of the system, and its rendering agents. The Great Orchestration is, if you will, the architecture of the Simulation Hypothesis: it describes how reality could be constructed, but not why. The why is perhaps unknowable, and is found in religion, not science.</p>
+      <p>The work unfolds in two parts: the Infrastructure, the behind-the-scenes code of the universe, and the Orchestration Renderer, the world we touch. It is offered not as dogma to be defended, but as a thought experiment.</p>
+      <div class="actions">
+        <a class="btn primary" data-link="pdf" href="#">Download free PDF</a>
+        <a class="btn" data-link="amazon" href="#" rel="noopener">Buy on Amazon</a>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<footer>
+  <div class="ornament" aria-hidden="true">❦</div>
+  <p>© <span id="year">2026</span> Ryan Miller. All rights reserved.</p>
+</footer>
+
+<script>
+(function () {
+  var cfg = window.BOOK_LINKS || {};
+  document.querySelectorAll(".book").forEach(function (sec) {
+    var c = cfg[sec.id] || {};
+    sec.querySelectorAll("[data-link]").forEach(function (a) {
+      var url = c[a.dataset.link];
+      if (url && url !== "#") {
+        a.href = url;
+        if (a.dataset.link === "amazon") a.target = "_blank";
+        if (a.dataset.link === "pdf") a.setAttribute("download", "");
+      } else {
+        a.classList.add("pending");
+        a.setAttribute("aria-disabled", "true");
+        a.title = "Link coming soon";
+        a.addEventListener("click", function (e) { e.preventDefault(); });
+      }
+    });
+    var cover = sec.querySelector(".cover");
+    var title = cover.dataset.title;
+    if (c.cover) {
+      var img = new Image();
+      img.alt = "Cover of " + title;
+      img.src = c.cover;
+      img.onerror = function () { img.remove(); fallback(); };
+      cover.appendChild(img);
+    } else fallback();
+    function fallback() {
+      cover.classList.add("fallback");
+      cover.setAttribute("role", "img");
+      cover.setAttribute("aria-label", title + " (cover coming soon)");
+      cover.innerHTML = '<span class="cn">' + cover.dataset.numeral + '</span><span class="ct">' + title + '</span><span class="cr">❦</span><span class="ca">Ryan Miller</span>';
+    }
+  });
+  document.getElementById("year").textContent = new Date().getFullYear();
+})();
+</script>
+</body>
+</html>
