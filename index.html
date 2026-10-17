@@ -62,8 +62,8 @@
       <p>The second book in the series can serve both as a detailed expansion of Novum Carta and as a separate entity. Where Novum Carta presents its ideas in a religious framework, this book is more agnostic, concerned with moral and ethical frameworks centering on duty to civilization.</p>
       <p>Humanity has survived for hundreds of thousands of years, through cycles of destruction and birth, giving rise to civilizations that rise and fall, and through those times there is a perennial set of rules and laws that allowed humanity to survive.</p>
       <div class="actions">
-        <a class="btn primary" data-link="pdf" href="#">Available 2027</a>
-        <a class="btn" data-link="amazon" href="#" rel="noopener">Available Soon</a>
+        <a class="btn primary" data-link="pdf" href="#" aria-disabled="true">Available 2027</a>
+        <a class="btn" data-link="amazon" href="#" rel="noopener" aria-disabled="true">Available Soon</a>
       </div>
     </div>
   </section>
@@ -75,12 +75,12 @@
     <div class="text">
       <p class="numeral">Book III</p>
       <h2 id="t3">The Great Orchestration</h2>
-      <p class="subtitle"><em>The Architecture of the Our Reality</em></p>
+      <p class="subtitle"><em>The Architecture of Our Reality</em></p>
       <p>You, me, and everything in the universe exist as a series of Russian dolls, each fitting one inside another. Behind this orchestration stand the general laws, the constants of the system, and its rendering agents. The Great Orchestration is, if you will, the architecture of the Simulation Hypothesis: it describes how reality could be constructed, but not why. The why is perhaps unknowable, and is found in religion, not science.</p>
       <p>The work unfolds in two parts: the Infrastructure, the behind-the-scenes code of the universe, and the Orchestration Renderer, the world we touch. It is offered not as dogma to be defended, but as a thought experiment.</p>
       <div class="actions">
-        <a class="btn primary" data-link="pdf" href="#">Available 2028</a>
-        <a class="btn" data-link="amazon" href="#" rel="noopener">Available Soon</a>
+        <a class="btn primary" data-link="pdf" href="#" aria-disabled="true">Available 2028</a>
+        <a class="btn" data-link="amazon" href="#" rel="noopener" aria-disabled="true">Available Soon</a>
       </div>
     </div>
   </section>
@@ -115,15 +115,19 @@
     var c = cfg[sec.id] || {};
     sec.querySelectorAll("[data-link]").forEach(function (a) {
       var url = c[a.dataset.link];
-      if (url && url !== "#") {
+      var forced = a.getAttribute("aria-disabled") === "true";
+      if (url && url !== "#" && !forced) {
         a.href = url;
         if (a.dataset.link === "amazon") a.target = "_blank";
-        if (a.dataset.link === "pdf") a.setAttribute("download", "");
+        if (a.dataset.link === "pdf") {
+          a.setAttribute("download", "");
+          // Dim automatically until the PDF actually exists in the repo.
+          fetch(url, { method: "HEAD", cache: "no-store" }).then(function (r) {
+            if (!r.ok) disable(a);
+          }).catch(function () {});
+        }
       } else {
-        a.classList.add("pending");
-        a.setAttribute("aria-disabled", "true");
-        a.title = "Link coming soon";
-        a.addEventListener("click", function (e) { e.preventDefault(); });
+        disable(a);
       }
     });
     var cover = sec.querySelector(".cover");
@@ -142,6 +146,15 @@
       cover.innerHTML = '<span class="cn">' + cover.dataset.numeral + '</span><span class="ct">' + title + '</span><span class="cr"><span class="ncs ncs-orbit"></span></span><span class="ca">Ryan Miller</span>';
     }
   });
+  function disable(a) {
+    a.classList.add("pending");
+    a.setAttribute("aria-disabled", "true");
+    a.removeAttribute("download");
+    a.removeAttribute("target");
+    a.setAttribute("href", "#");
+    a.title = "Link coming soon";
+    a.addEventListener("click", function (e) { e.preventDefault(); });
+  }
   document.getElementById("year").textContent = new Date().getFullYear();
 })();
 </script>
