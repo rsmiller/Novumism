@@ -60,7 +60,7 @@ Images live in `images/` and are referenced with relative paths from each chapte
 - [6.9 RULES TO LIVE BY.md](6.9%20RULES%20TO%20LIVE%20BY.md)
 - [6.10 APOCRYPHA.md](6.10%20APOCRYPHA.md)
 - [7. READING LIST.md](7.%20READING%20LIST.md)
-- [9. FINAL THOUGHTS FROM THE AUTHOR.md](9.%20FINAL%20THOUGHTS%20FROM%20THE%20AUTHOR.md)
+- [8. FINAL THOUGHTS FROM THE AUTHOR.md](8.%20FINAL%20THOUGHTS%20FROM%20THE%20AUTHOR.md)
 
 ## License
 See [LICENSE.md](../LICENSE.md) at the site root. LLM use requires credit to Ryan Miller / Novumism.

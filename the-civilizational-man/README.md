@@ -99,7 +99,7 @@ Work in progress (Available 2026).
 ### 9.BackMatter
 
 - [9.BackMatter/1 WRAPPING IT ALL UP.md](9.BackMatter/1%20WRAPPING%20IT%20ALL%20UP.md)
-- [9.BackMatter/9. FINAL THOUGHTS FROM THE AUTHOR.md](9.BackMatter/9.%20FINAL%20THOUGHTS%20FROM%20THE%20AUTHOR.md)
+- [9.BackMatter/8. FINAL THOUGHTS FROM THE AUTHOR.md](9.BackMatter/8.%20FINAL%20THOUGHTS%20FROM%20THE%20AUTHOR.md)
 - [9.BackMatter/10. REFERENCES.md](9.BackMatter/10.%20REFERENCES.md)
 
 ### 10.Essays
