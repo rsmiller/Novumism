@@ -1,5 +1,0 @@
-ALL THINGS HAVE POLARITY AND DUALITY
-
-Up vs down. Sad vs happy. Death vs life. We must accept the duality/polarity that exists within ourselves, others, nature, and the universe. As the Hermetic saying goes, “As Above, So Below,” which refers to this duality from many different perspectives. This duality is not limited to night-day, peace-war, good-bad, gender-agender, hot-cold, life-death, Yin-Yang, and so many more. In many instances, these dualities blend long before they are absolute in certainty.
-
-Our lives and ego are a duality: the hero and the anti-hero. The hero is courageous, content, helpful, has integrity, and accepts the world as it is and not some washed deluded version of it. As the hero you are the protagonist of the story, a leader, someone who bestows order because they have meaning and purpose. The anti-hero lacks meaning and purpose and is thus an arbitrator of chaos. They have a wavering sense of morality, lack integrity and honor, and are out for their own interest and will gaslight themselves into believing that interest is for society's benefit.
