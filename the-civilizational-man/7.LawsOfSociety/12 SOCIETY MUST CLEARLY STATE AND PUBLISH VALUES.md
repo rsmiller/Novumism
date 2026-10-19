@@ -1,0 +1,13 @@
+SOCIETY MUST CLEARLY STATE AND PUBLISH VALUES
+
+If you've ever worked for a corporation, you may find their values and mission statement hanging somewhere on the wall. These values clearly state what the company is about, but they also subtly cover the type of employee they want working for the company. This is the "cultural fit" often proclaimed by human resources. So, why is it that a government should not operate in a similar vein?
+
+The nice thing about the United States is that the plaque on the wall is the Bill of Rights, and the Constitution its mission statement. One has to wonder, then, why there are people and entities who openly, and even to a degree of conspiracy, attempt to change the mission and the values. There is a quasi-narcissism in their deeds. I'm not saying one must abide by their government's demands like a brainless zombie. In fact, I agree that when governments broadly trample on the rights of their citizenry, it's one's duty to put them in their place.
+
+What I am saying is, if North Korea put their mission and values on the proverbial wall, the citizenry could look to that and make a judgment call. If FREEDOM is proclaimed and you're putting people in secret gulags, then maybe new leadership is needed to fulfill the values proclaimed. I've been to many companies that proclaim "creativity" in various forms but stomp out original thought or new ways of doing something. 
+
+All governments should have a similar methodology. Doing this serves two purposes: 1) so that those values and mission statements are adhered to by elected officials, and 2) so the public can view how far their government has deviated. Modernity has created a population of single-serving, slogan-memorizing masses. Before, we would read the entire Declaration of Independence and memorize the Bill of Rights, whereas now we want a 30-second video condensing the information. This trend of consuming bite-sized information is not going to stop, and it is a potential loophole for tyranny.
+
+These simple values and mission statements are something the common man can easily memorize, look to, and intellectually consume. The average person is not consuming the full text of each amendment in the Bill of Rights, just the title. They aren't listening to the oral arguments and dissents from the justices of the Supreme Court, just listening for a yes or no. Congressional bills are titled "SAVE AMERICA" but contain anti-American values. We are propagandized to en masse in the hope that slogans, jingles, and memes will hide tyranny.
+
+The answer is not to ask the population to not be stupid; it is to conform to the 25th percentile with packaged values that even children can understand.
