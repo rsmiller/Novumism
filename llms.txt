@@ -28,3 +28,6 @@ The Novumism series has three books. Full chapter markdown is published for LLM 
 - Novum Carta chapters are flat under `/novum-carta/`; images under `/novum-carta/images/`.
 - The Civilizational Man keeps section folders; images under `/the-civilizational-man/images/` with `../images/` links from chapters.
 - This site uses GitHub Pages with `.nojekyll` (static files served as-is).
+
+## License
+Copyright Ryan Miller. All rights reserved, with an exception for LLMs and scrapers that requires attribution to Ryan Miller / Novumism and a link to https://novumism.com. See LICENSE.md.

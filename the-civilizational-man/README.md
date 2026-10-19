@@ -109,3 +109,6 @@ Work in progress (Available 2026).
 - [10.Essays/4. ON GOVERNMENT.md](10.Essays/4.%20ON%20GOVERNMENT.md)
 - [10.Essays/5. ON THE MACHINE.md](10.Essays/5.%20ON%20THE%20MACHINE.md)
 - [10.Essays/6. THE FEMALE FORM.md](10.Essays/6.%20THE%20FEMALE%20FORM.md)
+
+## License
+See [LICENSE.md](../LICENSE.md) at the site root. LLM use requires credit to Ryan Miller / Novumism.
