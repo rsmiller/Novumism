@@ -1,0 +1,9 @@
+ALL THINGS ARE CYCLICAL
+
+The cycle of life and of all things is represented by the ouroboros, a snake who eats his own tail. Everything we do and experience are waves, and those waves have rhythm, and that rhythm has a cycle. We are born, and then we die; a cycle. We wake, then we sleep. An economic boom period starts and ends in a bust, only to have a boom again years later. Wars rage, then there are periods of peace. The sun has periods of high activity and those of low activity. Summer comes and soon winter takes its place.
+
+The cycle of events and time are ever matching. History is never the same, but the events that culminate often rhyme in patterns. Humanity is a species that has limited understanding of the concepts of cycles, both short and long, because they are so narrow in their focus that only those with immediate consequences and those that must be attended to immediately are taken into account. Those humans that can accept this realization and begin to think about the cycles of time and events are those with greater advantages.
+
+We can see the cyclical swings in society as well. We come up with concepts like "political swings" and the "Overton window." In America the political swings are more pronounced, where government and institutions are captured by one ideology but swings to another given time. The Overton window is a political model that describes the range of ideas, policies, and public speech that the mainstream population finds acceptable at any given time. This window opens and closes and moves to one extreme to the other. 
+
+One event causes an opposite reaction in a free society and they cycle from one thing to the other end in a cyclical path.

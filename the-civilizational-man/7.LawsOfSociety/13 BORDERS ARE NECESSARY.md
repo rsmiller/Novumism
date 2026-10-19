@@ -1,0 +1,13 @@
+BORDERS ARE NECESSARY
+
+To the Leftist, a nation's borders are symbolic and confusing. They wouldn’t let everyone in their homes, including immigrants from other countries, even though they advocate for mass unfiltered migration, but they believe that borders are a sign of oppression. The concept of borders is confusing when you sell your Leftist pussy online for $5 because it requires you to think about geopolitics for longer than it takes an average guy to blow their load.
+
+Borders are a territorial claim of a society. Cities have borders that are fought over in courthouses, counties, states, and nations. For hundreds of thousands of years people have fought over borders, because the land gives rise to resources like fresh water, places to grow food, and resources to mine. If there are no borders, people come and go as they please. They take what they want and to hell with anyone else. If a big enough group of people comes, they can take all your stuff, then you die, all your family, and your neighbors.
+
+In the old days before cars, if someone took your land you’d have to move. You would jump on a horse, if you were rich enough, and ride to find more land. If you found some that was unoccupied, it would take many years to set up a small farm, assuming you had enough food to last that long, and were able to find water. It is very labor-intensive to build sustainability. Multiply this labor by the number of people displaced.
+
+People are not good to one another. Reality doesn’t operate off a utopian pipe dream where everyone can just share resources, because not all labor is the same. If I know how to mine copper, why the hell would I give any of it to you if all you know how to do is sell your pussy online in your utopia? All roads lead back to capitalism.
+
+So, people stake land, usually marked by terrain or border fences, to prevent people coming into the territory to take resources for the people who are currently there. If more and more people arrive, then there are fewer resources. That requires more people to find the resources, get the resources, and sometimes that requires you to take land from someone else. Most times you can buy the land, especially within the borders; however, sometimes you take it from other people.
+
+That is why you also have guards at the border. The guards won’t stop a surprise attack, but they can communicate to the army if one is spotted. Border patrol checks papers of people who are legally coming into the country; armies ensure land and its resources aren’t seized. Without borders you aren’t protecting your people. If you aren’t protecting your people, you’re anti-civilization.

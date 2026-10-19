@@ -1,0 +1,15 @@
+SOME CULTURES ARE BETTER THAN OTHERS
+
+Cultural relativists proclaim that the value of one group of people can never be weighed against another group. This is patently wrong, and adheres to egalitarian blank-slate ideology. If we look to a culture's fruits, we can clearly see it’s bullshit. These relativists will look at you dead in the eye and make the claim that the fruits of a culture matter nothing because the fruit is subjective. 
+
+But real people who exist in reality and are capable of analyzing statistics know that relativism is bullshit. These are the same lunatics on the LGBT+ side who promote mass immigration from the Islamic world where they kill the LGBT+ people. You’re not going to breed out culture, or change the minds of these people who don’t even understand what cultural relativism means. You’re not going to stop the systematic rape of the women of Europe by handing out pamphlets to Islamists and North Africans to ask for consent from a woman or not kill people 1 2.
+
+That is because they have a different culture than the one they came from. It doesn’t change overnight or even in a generation. It is selectively pounded into your psyche as a child up until the moments you die either alone in a room or surrounded by family.
+In 2018 it was a routine day for my step-brother and his wife. They put their daughter in daycare and went to work. A few hours later they got a call that parents dread: your daughter is in the hospital, we don’t know what happened, she stopped breathing.
+What happened was the person with a cultural problem, who should not have been there, did not check on the infants. My niece was in a bouncing toy, fell asleep, and it choked off her airway. At least that is what we were told, because the next day, the daycare closed, forever. 
+
+The paramedics were able to restore a heartbeat, but she was brain dead. The entire family descended to the hospital to help my step-brother and his wife. My niece was kept on a breathing machine while tests were run, and re-run, but they all came back that she was effectively dead.
+
+The next day we gathered again to attend a farewell to my niece. Priests showed up to give blessings to her and the family. The children's hospital had a nice private courtyard filled with beautiful shrubs in front of a statue of Mary. There we gathered. My brother and his wife held her as the oxygen machine was turned off. As a family we watched her turn blue and die for the second time.
+
+So, when I hear ivory tower people spout nonsense about culture and how peace can be made through some word magic or utopianism, it makes me think of watching a 6-month-old turn blue and die five feet from me. To say that black culture of ignorance, violence, and victim mentality is the same as mine, irreconcilable differences. When I see the Islamification of the UK 3 and the two-tiered justice system in the UK that punishes its native population 4, I wonder why that daycare closed up so fast. When I hear of women being raped in Europe 5 and them being thrown in jail for speaking out 6, I think of how my niece never got to experience the middle class American life.

@@ -1,0 +1,7 @@
+EVERY CAUSE HAS AN EFFECT
+
+We are told that all things began with the Big Bang; that is the starting point. We are told that our life begins at our birth and in that that is our starting point. But reality doesn't seem to be that easy to define. The cause of our birth has many paths. When does our life begin truely? Is it as a cell or when we "turn on?" These are all examples of one thing preceeding another and man trying to find the source and the beginning.  If we map a chain of events from the beginning is there a defined end? 
+
+These are questions I am profoundly interested in because not only does it effect reality but it drives humanity from the individual to civilization. Politics and culture are created by cause and effect, and define blame, reperations, or revolution. As one thing exists it causes an effect on another thing. Just as two atoms existing in a vacuum will seek one another out, so do all things. When you throw a rock in the river the stream diverts slightly. In that diversion you could have made a place for fish to lay eggs or when throwing the rock, you could have killed a fish that would have spawned a new species Every cause has an effect, every effect creates a cause.
+
+This is something we need to be congicent about and approch all things where we build opinions and ideals based on "cause." For the "cause" of one man may not be the "cause" found by another. In this we can infinetly regress, or infinately progress. Arguments are born of "cause" and philosophies born from "effect." Cause in effect are found in all things.
